@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresa>
+    <departamentos>
+        <departamento>
+            <localidad>Jaca</localidad>
+            <nombre>Ventas</nombre>
+        </departamento>
+        <departamento>
+            <localidad>Jaca</localidad>
+            <nombre>Producción</nombre>
+        </departamento>
+        <departamento>
+            <localidad>Sabiñánigo</localidad>
+            <nombre>Informática</nombre>
+        </departamento>
+        <departamento>
+            <localidad>Sabiñánigo</localidad>
+            <nombre>Compras</nombre>
+        </departamento>
+    </departamentos>
+    <empleados>
+        <antiguedad>20231022_19-48-22</antiguedad>
+        <año>2001</año>
+        <nombre>Juan Álvarez</nombre>
+        <sueldo>25000</sueldo>
+    </empleados>
+    <empleados>
+        <antiguedad>20231022_19-48-22</antiguedad>
+        <año>2000</año>
+        <nombre>Sara Gracia</nombre>
+        <sueldo>28000</sueldo>
+    </empleados>
+    <empleados>
+        <antiguedad>20231022_19-48-22</antiguedad>
+        <año>1980</año>
+        <nombre>Juan Álvarez</nombre>
+        <sueldo>35000</sueldo>
+    </empleados>
+</empresa>
