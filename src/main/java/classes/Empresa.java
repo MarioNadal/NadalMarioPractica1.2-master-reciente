@@ -4,6 +4,7 @@ import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
 import java.util.List;
+//Empresa
 @XmlRootElement
 public class Empresa {
     private List<Empleado> empleados;

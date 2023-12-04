@@ -1,7 +1,7 @@
 package classes;
 
 import jakarta.xml.bind.annotation.XmlElement;
-
+//Departamento
 public class Departamento {
     private String nombre;
     private String localidad;

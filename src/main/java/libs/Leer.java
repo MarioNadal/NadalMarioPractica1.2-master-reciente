@@ -2,7 +2,7 @@ package libs;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+//Leer
 public class Leer {
     public static int introduceEntero(String texto) {
         Scanner sc = new Scanner(System.in);

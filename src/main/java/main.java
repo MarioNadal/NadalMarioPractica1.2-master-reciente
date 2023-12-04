@@ -290,5 +290,5 @@ public class main {
             //El usuario introducira true si quiere introducir más empleados o false si no quiere introducir más
             salir = libs.Leer.introduceBoolean("Introduce true si quiere seguir añadiendo empleados, de lo contrario introduzca false");
         } while (salir);
-    }
+    }//pedirEmpleados()
 }

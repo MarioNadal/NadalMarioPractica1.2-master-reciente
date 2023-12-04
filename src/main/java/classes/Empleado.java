@@ -4,7 +4,7 @@ import jakarta.xml.bind.annotation.XmlAccessType;
 import jakarta.xml.bind.annotation.XmlAccessorType;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
-
+//Empleado
 @XmlRootElement(name = "empleado")
 @XmlAccessorType(XmlAccessType.NONE)
 public class Empleado {
